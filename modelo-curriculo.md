@@ -5,21 +5,21 @@
 
 ## Dados Pessoais 📄
 ![Profile Picture](https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80)
-- **Nome:** [Seu nome completo] 🙍‍♂️
-- **Email:** [Seu email] 📧
+- **Nome:** [Kalebe] 🙍‍♂️
+- **Email:** [joaokalebej@gmail.com] 📧
 - **Instagram:** [Link do seu Instagram](https://www.linkedin.com) 🔗
-- **GitHub:** [Link do seu GitHub](https://www.github.com) 🔗
+- **GitHub:** [github.com/joaokalebej](https://www.github.com) 🔗
 
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Senai:** [Nome da Instituição]
+  - **Análise e Desenvolvimento de Sistemas:** [Nome do Curso]
+  - **2025:** [Ano de Conclusão]
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-  - **Empresa1:** [Nome da Empresa]
+  - **Guia Fácil:** [guiafacil.com](https://www.guiafacil.com)
   - **Empresa2:** [Nome da Empresa]
   - **Empresa3:** [Nome da Empresa]
 
@@ -36,4 +36,4 @@
   - Aprendizado 2
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://c.tenor.com/XfLV1PmF88oAAAAC/homer-simpson-the-simpsons.gif)
