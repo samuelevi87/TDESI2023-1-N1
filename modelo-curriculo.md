@@ -32,8 +32,8 @@
 ## Com o curso eu Aprendi 🎉
 ![Trophy](https://images.unsplash.com/photo-1579586331215-3f8e6c0a5f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Aprendizados]**
-  - Aprendizado 1
-  - Aprendizado 2
+  - aaaaaaaaaaaaaaaaaaaa
+  - aaaaaaaaaaaaaaaaaaaaaaa
 
 ## GIF Motivacional 
 ![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
