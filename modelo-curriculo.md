@@ -5,15 +5,15 @@
 
 ## Dados Pessoais 📄
 ![Profile Picture](https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80)
-- **Nome:** [Seu nome completo] 🙍‍♂️
-- **Email:** [Seu email] 📧
+- **Nome:** João Guilherme 🙍‍♂️
+- **Email:** joao.reinertcosta@lince.com.br 📧
 - **Instagram:** [Link do seu Instagram](https://www.linkedin.com) 🔗
 - **GitHub:** [Link do seu GitHub](https://www.github.com) 🔗
 
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
-- **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
+- **Desenvolvimento de Sistemas**  
+  - **Instituição:** Sesi senai
   - **Curso:** [Nome do Curso]
   - **Ano de Conclusão:** [Ano de Conclusão]
 
