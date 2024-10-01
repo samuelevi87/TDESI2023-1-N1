@@ -36,4 +36,4 @@
   - Aprendizado 2
 
 ## GIF Motivacional 
-![Motivational GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Motivational GIF](https://c.tenor.com/XfLV1PmF88oAAAAC/homer-simpson-the-simpsons.gif)
