@@ -8,13 +8,13 @@
 - **Nome:** [Seu nome completo] 🙍‍♂️
 - **Email:** [Seu email] 📧
 - **Instagram:** [Link do seu Instagram](https://www.linkedin.com) 🔗
-- **GitHub:** [Link do seu GitHub](https://www.github.com) 🔗
+- **GitHub:** [Link do seu GitHub](https://github.com/GuilhermeSilvav) 🔗
 
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
+  - **Instituição:** [Senai]
+  - **Curso:** [Desenvolvimento de Sistemas]
   - **Ano de Conclusão:** [Ano de Conclusão]
 
 ## Empresas que eu gostaria de Trabalhar 💼
