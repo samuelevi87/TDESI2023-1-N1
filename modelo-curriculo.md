@@ -14,7 +14,7 @@
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **Desenvolvimento de Sistemas**  
   - **Instituição:** Sesi senai
-  - **Curso:** [Nome do Curso]
+  - **Curso:** Desenvolvimento de Sistemas
   - **Ano de Conclusão:** [Ano de Conclusão]
 
 ## Empresas que eu gostaria de Trabalhar 💼
