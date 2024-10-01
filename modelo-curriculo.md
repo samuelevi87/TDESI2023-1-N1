@@ -6,7 +6,7 @@
 ## Dados Pessoais 📄
 ![Profile Picture](https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80)
 - **Nome:** [Willian Matheus] 🙍‍♂️
-- **Email:** [Seu email] 📧
+- **Email:** [naoInteressa@gmail.com] 📧
 - **Instagram:** [Link do seu Instagram](https://www.linkedin.com) 🔗
 - **GitHub:** [Link do seu GitHub](https://www.github.com) 🔗
 
