@@ -5,10 +5,10 @@
 
 ## Dados Pessoais 📄
 ![Profile Picture](https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80)
-- **Nome:** [Seu nome completo] 🙍‍♂️
-- **Email:** [Seu email] 📧
-- **Instagram:** [Link do seu Instagram](https://www.linkedin.com) 🔗
-- **GitHub:** [Link do seu GitHub](https://www.github.com) 🔗
+- **Nome:** Otávio Lourenço 🙍‍♂️
+- **Email:** otaviolourenco24@gmail.com 📧
+- **Instagram:** tavin.mrq 🔗
+- **GitHub:** fkgnbgbagbogbdoi.com🔗
 
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
