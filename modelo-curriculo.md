@@ -13,9 +13,9 @@
 ## Educação 🏫
 ![Education](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
 - **[Sua formação acadêmica]**  
-  - **Instituição:** [Nome da Instituição]
-  - **Curso:** [Nome do Curso]
-  - **Ano de Conclusão:** [Ano de Conclusão]
+  - **Instituição:** [SENAI]
+  - **Curso:** [Desenvolvimento de Sistemas]
+  - **Ano de Conclusão:** [2024]
 
 ## Empresas que eu gostaria de Trabalhar 💼
 ![Work](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=50&q=80)
